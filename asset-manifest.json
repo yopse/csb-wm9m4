@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yopse.github.io/csb-wm9m4/static/css/main.d3ed1bba.chunk.css",
+    "main.js": "https://yopse.github.io/csb-wm9m4/static/js/main.9309ce0d.chunk.js",
+    "main.js.map": "https://yopse.github.io/csb-wm9m4/static/js/main.9309ce0d.chunk.js.map",
+    "runtime-main.js": "https://yopse.github.io/csb-wm9m4/static/js/runtime-main.06335911.js",
+    "runtime-main.js.map": "https://yopse.github.io/csb-wm9m4/static/js/runtime-main.06335911.js.map",
+    "static/js/2.8ee6338b.chunk.js": "https://yopse.github.io/csb-wm9m4/static/js/2.8ee6338b.chunk.js",
+    "static/js/2.8ee6338b.chunk.js.map": "https://yopse.github.io/csb-wm9m4/static/js/2.8ee6338b.chunk.js.map",
+    "index.html": "https://yopse.github.io/csb-wm9m4/index.html",
+    "static/css/main.d3ed1bba.chunk.css.map": "https://yopse.github.io/csb-wm9m4/static/css/main.d3ed1bba.chunk.css.map",
+    "static/js/2.8ee6338b.chunk.js.LICENSE.txt": "https://yopse.github.io/csb-wm9m4/static/js/2.8ee6338b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06335911.js",
+    "static/js/2.8ee6338b.chunk.js",
+    "static/css/main.d3ed1bba.chunk.css",
+    "static/js/main.9309ce0d.chunk.js"
+  ]
+}
